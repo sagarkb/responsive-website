@@ -1,0 +1,55 @@
+body {
+    font-family: "Arvo", serif;
+    font-weight: bold;
+}
+
+.height {
+    min-height: 100vh;
+}
+
+.underline {
+    height: 4px;
+    width: 250px;
+    margin: 7px auto;
+}
+
+.underline1 {
+    height: 14px;
+    width: 150px;
+    margin: 7px auto;
+}
+
+.underline2 {
+    height: 4px;
+    width: 400px;
+    margin: 7px auto;
+}
+
+.height1 {
+    min-height: 80vh;
+}
+
+.parallex {
+    background-image: url("../img/Screen.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.image-setting {
+    height: 200px !important;
+    width: 200px !important;
+}
+
+.bach {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/building-5.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.khishak {
+    padding-left: 200px !important;
+}
